@@ -1,7 +1,6 @@
 # GEV an Blockmaxima: wie viel eine kurze Reihe verrät – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-gev-blockmaxima-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-gev-blockmaxima-demo.streamlit.app/)**
 
 Demo der Linie **„Extremwerte erklärt“** in der „Konzepte“-Reihe der Website „Sebastian Hanisch – Operations Research und Machine Learning“ (Bereich Statistik, Feld „Seltenes und Extremes“). Die Linie fragt, was sich über den Rand einer Verteilung sagen lässt, also über einen Wert, den eine Beobachtung nur selten überschreitet. Diese Demo behandelt die **Block-Maxima-Methode**: Aus **m Block-Maxima** werden die Parameter (μ, σ, ξ) einer **GEV** (verallgemeinerte Extremwertverteilung) geschätzt und daraus der **Pegel** abgelesen. Die Annahme „die Einzelverteilung F ist bekannt“, bei der das Maximum von n Beobachtungen exakt F^n folgt, wird hier aufgehoben: In der Hand sind nur m Zahlen, und gefragt ist, wie viel sie über den Rand verraten.
 
